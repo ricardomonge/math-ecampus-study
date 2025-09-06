@@ -63,6 +63,6 @@ Monge-Rogel, R. (2025). Efectividad de un taller asincrónico de nivelación mat
 
 ## 📬 Contacto
 
-Autor: Ricardo Monge-Rogel
-Universidad de Las Américas
+Autor: Ricardo Monge-Rogel, 
+Universidad de Las Américas, 
 📧 rmonge@udla.cl
