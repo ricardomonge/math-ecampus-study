@@ -15,7 +15,10 @@ Los datos fueron **anonimizados** para resguardar la confidencialidad de los par
   Respuestas anonimizadas de la encuesta de percepción estudiantil (ítems tipo Likert y respuestas abiertas).  
 
 - `data_analysis_scores.ipynb`  
-  Notebook en Python con el análisis de los puntajes (descriptivos, Wilcoxon, Cliff’s delta, visualizaciones).  
+  Notebook en Python con el análisis de los puntajes (descriptivos, Wilcoxon, Cliff’s delta, visualizaciones).
+
+- `dataset_readme.md`  
+  Documentación de los datasets: variables, cuestionario asociado y notas metodológicas.  
 
 - `data_analysis_survey.ipynb`  
   Notebook en Python con el análisis de la encuesta (descriptivos, confiabilidad, análisis de texto con embeddings y clustering).  
