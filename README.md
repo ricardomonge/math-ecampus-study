@@ -25,7 +25,7 @@ Los datos fueron **anonimizados** para resguardar la confidencialidad de los par
 
 ---
 
-## 🔬 Metodología en breve
+## 🔬 Metodología (resumen)
 - **Diseño**: cuasiexperimental de un solo grupo con medidas pre y post.  
 - **Participantes**: 238 estudiantes adultos (tasa de finalización = 63,6%).  
 - **Instrumentos**:  
