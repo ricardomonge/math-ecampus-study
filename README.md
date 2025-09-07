@@ -1,4 +1,4 @@
-# Repositorio de datos y análisis para el estudio: “Efectividad de un taller asincrónico de nivelación matemática en estudiantes adultos de ingeniería online”
+# Repositorio de datos y análisis para el estudio: “Nivelación matemática asincrónica para estudiantes adultos en continuidad de estudios de ingeniería en modalidad online”
 
 ## 📌 Descripción  
 Este repositorio contiene los datos anonimizados y los scripts de análisis utilizados en un estudio que evaluó un taller asincrónico de nivelación matemática en estudiantes adultos de un programa de Ingeniería Civil Industrial en modalidad online.  
