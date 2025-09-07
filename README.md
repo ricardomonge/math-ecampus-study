@@ -68,7 +68,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 Si utilizas estos datos o scripts, por favor cita:
 
-Monge-Rogel, R. (2025). Efectividad de un taller asincrónico de nivelación matemática en estudiantes adultos de ingeniería online.
+Monge-Rogel, R. (2025). Nivelación matemática asincrónica para estudiantes adultos de continuidad de estudios de ingeniería en modalidad online.
 
 ## 📬 Contacto
 
