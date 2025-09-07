@@ -56,6 +56,13 @@ git clone https://github.com/ricardomonge/math-ecampus-study.git
 cd math-ecampus-study
 jupyter notebook
 ```
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
 
 ## 📖 Referencia del estudio
 
