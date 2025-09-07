@@ -50,6 +50,5 @@ El instrumento original (*Encuesta de Cierre del Taller*) consideró las siguien
 - Los datos fueron **anonimizados** antes de su publicación, eliminando identificadores personales y excluyendo la pregunta NPS.  
 - Las escalas de pre y post test (0–40) permiten evaluar cambio inmediato en desempeño matemático.  
 - Los datos de encuesta integran tanto **respuestas cerradas** (escala Likert) como **respuestas abiertas**, lo que habilita análisis mixtos.  
-- El cuestionario fue elaborado por el **Instituto de Matemática, Física y Estadística** en el marco del programa de continuidad de estudios.  
 
 ---
