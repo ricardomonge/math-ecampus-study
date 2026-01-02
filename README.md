@@ -72,6 +72,7 @@ Monge-Rogel, R. (2025). Nivelación matemática asincrónica para estudiantes ad
 
 ## Contacto
 
-Autor: Ricardo Monge-Rogel, 
+Autor: Ricardo Monge-Rogel,
+Instituto de Matemática, Física y Estadística,
 Universidad de Las Américas, 
 📧 rmonge@udla.cl
