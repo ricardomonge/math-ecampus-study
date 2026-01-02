@@ -1,13 +1,13 @@
 # Repositorio de datos y análisis para el estudio: “Nivelación matemática asincrónica para estudiantes adultos de continuidad de estudios de ingeniería en modalidad online”
 
-## 📌 Descripción  
+## Descripción  
 Este repositorio contiene los datos anonimizados y los scripts de análisis utilizados en un estudio que evaluó un taller asincrónico de nivelación matemática en estudiantes adultos de un programa de Ingeniería Civil Industrial en modalidad online.  
 
 Los datos fueron anonimizados para resguardar la confidencialidad de los participantes y se comparten con fines de transparencia y reproducibilidad científica.
 
 ---
 
-## 📂 Estructura del repositorio
+## Estructura del repositorio
 - `dataset_grades_anonymized.csv`  
   Puntajes de pretest y postest de los estudiantes que participaron en el taller.  
 
@@ -25,7 +25,7 @@ Los datos fueron anonimizados para resguardar la confidencialidad de los partici
 
 ---
 
-## 🔬 Metodología (resumen)
+## Metodología (resumen)
 - **Diseño**: cuasiexperimental de un solo grupo con medidas pre y post.  
 - **Participantes**: 238 estudiantes adultos (tasa de finalización = 63,6%).  
 - **Instrumentos**:  
@@ -38,14 +38,14 @@ Los datos fueron anonimizados para resguardar la confidencialidad de los partici
 
 ---
 
-## ⚖️ Ética y datos
+## Ética y datos
 - Todos los datos fueron **anonimizados** antes de su publicación.  
 - La participación fue **voluntaria** y con consentimiento informado.  
 - El estudio se realizó conforme a los principios del **Belmont Report (1979)**.  
 
 ---
 
-## 🚀 Reproducibilidad
+## Reproducibilidad
 Para ejecutar los análisis:  
 1. Clonar este repositorio.  
 2. Abrir los notebooks en Jupyter o VSCode.  
@@ -58,19 +58,19 @@ jupyter notebook
 ```
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📖 Referencia del estudio
+## Referencia del estudio
 
 Si utilizas estos datos o scripts, por favor cita:
 
 Monge-Rogel, R. (2025). Nivelación matemática asincrónica para estudiantes adultos de continuidad de estudios de ingeniería en modalidad online.
 
-## 📬 Contacto
+## Contacto
 
 Autor: Ricardo Monge-Rogel, 
 Universidad de Las Américas, 
